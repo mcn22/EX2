@@ -1,0 +1,17 @@
+D:\Source Code\FIDELITAS\SC-701\SEMANA 13\ThoughtsWall\ThoughtsWall.Infrastructure\bin\Debug\net5.0\ThoughtsWall.Infrastructure.deps.json
+D:\Source Code\FIDELITAS\SC-701\SEMANA 13\ThoughtsWall\ThoughtsWall.Infrastructure\bin\Debug\net5.0\ThoughtsWall.Infrastructure.dll
+D:\Source Code\FIDELITAS\SC-701\SEMANA 13\ThoughtsWall\ThoughtsWall.Infrastructure\bin\Debug\net5.0\ref\ThoughtsWall.Infrastructure.dll
+D:\Source Code\FIDELITAS\SC-701\SEMANA 13\ThoughtsWall\ThoughtsWall.Infrastructure\bin\Debug\net5.0\ThoughtsWall.Infrastructure.pdb
+D:\Source Code\FIDELITAS\SC-701\SEMANA 13\ThoughtsWall\ThoughtsWall.Infrastructure\bin\Debug\net5.0\ThoughtsWall.Domain.dll
+D:\Source Code\FIDELITAS\SC-701\SEMANA 13\ThoughtsWall\ThoughtsWall.Infrastructure\bin\Debug\net5.0\ThoughtsWall.Shared.dll
+D:\Source Code\FIDELITAS\SC-701\SEMANA 13\ThoughtsWall\ThoughtsWall.Infrastructure\bin\Debug\net5.0\ThoughtsWall.Domain.pdb
+D:\Source Code\FIDELITAS\SC-701\SEMANA 13\ThoughtsWall\ThoughtsWall.Infrastructure\bin\Debug\net5.0\ThoughtsWall.Shared.pdb
+D:\Source Code\FIDELITAS\SC-701\SEMANA 13\ThoughtsWall\ThoughtsWall.Infrastructure\obj\Debug\net5.0\ThoughtsWall.Infrastructure.csprojAssemblyReference.cache
+D:\Source Code\FIDELITAS\SC-701\SEMANA 13\ThoughtsWall\ThoughtsWall.Infrastructure\obj\Debug\net5.0\ThoughtsWall.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source Code\FIDELITAS\SC-701\SEMANA 13\ThoughtsWall\ThoughtsWall.Infrastructure\obj\Debug\net5.0\ThoughtsWall.Infrastructure.AssemblyInfoInputs.cache
+D:\Source Code\FIDELITAS\SC-701\SEMANA 13\ThoughtsWall\ThoughtsWall.Infrastructure\obj\Debug\net5.0\ThoughtsWall.Infrastructure.AssemblyInfo.cs
+D:\Source Code\FIDELITAS\SC-701\SEMANA 13\ThoughtsWall\ThoughtsWall.Infrastructure\obj\Debug\net5.0\ThoughtsWall.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Source Code\FIDELITAS\SC-701\SEMANA 13\ThoughtsWall\ThoughtsWall.Infrastructure\obj\Debug\net5.0\ThoughtsWall.Infrastructure.csproj.CopyComplete
+D:\Source Code\FIDELITAS\SC-701\SEMANA 13\ThoughtsWall\ThoughtsWall.Infrastructure\obj\Debug\net5.0\ThoughtsWall.Infrastructure.dll
+D:\Source Code\FIDELITAS\SC-701\SEMANA 13\ThoughtsWall\ThoughtsWall.Infrastructure\obj\Debug\net5.0\ref\ThoughtsWall.Infrastructure.dll
+D:\Source Code\FIDELITAS\SC-701\SEMANA 13\ThoughtsWall\ThoughtsWall.Infrastructure\obj\Debug\net5.0\ThoughtsWall.Infrastructure.pdb

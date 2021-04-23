@@ -1,0 +1,15 @@
+D:\Source Code\FIDELITAS\SC-701\SEMANA 13\ThoughtsWall\ThoughtsWall.Domain\bin\Debug\net5.0\ThoughtsWall.Domain.deps.json
+D:\Source Code\FIDELITAS\SC-701\SEMANA 13\ThoughtsWall\ThoughtsWall.Domain\bin\Debug\net5.0\ThoughtsWall.Domain.dll
+D:\Source Code\FIDELITAS\SC-701\SEMANA 13\ThoughtsWall\ThoughtsWall.Domain\bin\Debug\net5.0\ref\ThoughtsWall.Domain.dll
+D:\Source Code\FIDELITAS\SC-701\SEMANA 13\ThoughtsWall\ThoughtsWall.Domain\bin\Debug\net5.0\ThoughtsWall.Domain.pdb
+D:\Source Code\FIDELITAS\SC-701\SEMANA 13\ThoughtsWall\ThoughtsWall.Domain\bin\Debug\net5.0\ThoughtsWall.Shared.dll
+D:\Source Code\FIDELITAS\SC-701\SEMANA 13\ThoughtsWall\ThoughtsWall.Domain\bin\Debug\net5.0\ThoughtsWall.Shared.pdb
+D:\Source Code\FIDELITAS\SC-701\SEMANA 13\ThoughtsWall\ThoughtsWall.Domain\obj\Debug\net5.0\ThoughtsWall.Domain.csprojAssemblyReference.cache
+D:\Source Code\FIDELITAS\SC-701\SEMANA 13\ThoughtsWall\ThoughtsWall.Domain\obj\Debug\net5.0\ThoughtsWall.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source Code\FIDELITAS\SC-701\SEMANA 13\ThoughtsWall\ThoughtsWall.Domain\obj\Debug\net5.0\ThoughtsWall.Domain.AssemblyInfoInputs.cache
+D:\Source Code\FIDELITAS\SC-701\SEMANA 13\ThoughtsWall\ThoughtsWall.Domain\obj\Debug\net5.0\ThoughtsWall.Domain.AssemblyInfo.cs
+D:\Source Code\FIDELITAS\SC-701\SEMANA 13\ThoughtsWall\ThoughtsWall.Domain\obj\Debug\net5.0\ThoughtsWall.Domain.csproj.CoreCompileInputs.cache
+D:\Source Code\FIDELITAS\SC-701\SEMANA 13\ThoughtsWall\ThoughtsWall.Domain\obj\Debug\net5.0\ThoughtsWall.Domain.csproj.CopyComplete
+D:\Source Code\FIDELITAS\SC-701\SEMANA 13\ThoughtsWall\ThoughtsWall.Domain\obj\Debug\net5.0\ThoughtsWall.Domain.dll
+D:\Source Code\FIDELITAS\SC-701\SEMANA 13\ThoughtsWall\ThoughtsWall.Domain\obj\Debug\net5.0\ref\ThoughtsWall.Domain.dll
+D:\Source Code\FIDELITAS\SC-701\SEMANA 13\ThoughtsWall\ThoughtsWall.Domain\obj\Debug\net5.0\ThoughtsWall.Domain.pdb

@@ -1,0 +1,17 @@
+﻿@model int
+
+<div class="row">
+    <div class="col">
+        @{ 
+            var etiqueta = "Crear";
+            if (Model > 0)
+            {
+                etiqueta = "Actualizar";
+            }
+        }
+        <button type="submit" class="btn btn-primary form-control" asp-route-id="@Model">@etiqueta</button>
+    </div>
+    <div class="col">
+        <a asp-action="Index" class="btn btn-success form-control">Regresar</a>
+    </div>
+</div>
